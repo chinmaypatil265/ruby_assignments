@@ -1,0 +1,37 @@
+[
+    {
+        "user_id": "USR-001",
+        "user_email": "chinmay",
+        "user_password": "chinmay"
+    },
+    {
+        "user_id": "USR-002",
+        "user_email": "marc",
+        "user_password": "marc"
+    },
+    {
+        "user_id": "USR-456",
+        "user_email": "valentino",
+        "user_password": "valentino"
+    },
+    {
+        "user_id": "USR-900",
+        "user_email": "Alex",
+        "user_password": "Alex"
+    },
+    {
+        "user_id": "sfsf",
+        "user_email": "fsfs",
+        "user_password": "sfsf"
+    },
+    {
+        "user_id": "USR-200",
+        "user_email": "chin",
+        "user_password": "chin"
+    },
+    {
+        "user_id": "USR-123",
+        "user_email": "sam",
+        "user_password": "sam"
+    }
+]
